@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FlightPlan", "FlightPlan\FlightPlan.vcproj", "{72655E5E-BAA7-4811-B895-721B6FB5D254}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FlightTest", "FlightTest\FlightTest.vcproj", "{62E87A64-87F9-4781-824A-9A8DEAF1D465}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72655E5E-BAA7-4811-B895-721B6FB5D254}.Debug|Win32.ActiveCfg = Debug|Win32
+		{72655E5E-BAA7-4811-B895-721B6FB5D254}.Debug|Win32.Build.0 = Debug|Win32
+		{72655E5E-BAA7-4811-B895-721B6FB5D254}.Release|Win32.ActiveCfg = Release|Win32
+		{72655E5E-BAA7-4811-B895-721B6FB5D254}.Release|Win32.Build.0 = Release|Win32
+		{62E87A64-87F9-4781-824A-9A8DEAF1D465}.Debug|Win32.ActiveCfg = Debug|Win32
+		{62E87A64-87F9-4781-824A-9A8DEAF1D465}.Debug|Win32.Build.0 = Debug|Win32
+		{62E87A64-87F9-4781-824A-9A8DEAF1D465}.Release|Win32.ActiveCfg = Release|Win32
+		{62E87A64-87F9-4781-824A-9A8DEAF1D465}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
